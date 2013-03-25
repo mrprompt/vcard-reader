@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Thiago Paes
+N:Paes;Thiago;;;
+EMAIL;TYPE=INTERNET:mrprompt@gmail.com
+ORG:Empresa
+TITLE:Programmer
+BDAY:1982-03-06
+item1.TEL:+554800000000
+item1.X-ABLabel:Celular
+item1.URL:http\://about.me/mrprompt
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
+
